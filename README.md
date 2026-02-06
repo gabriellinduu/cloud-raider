@@ -21,7 +21,7 @@ Este bot demonstra como criar e executar um aplicativo do Discord usando Python.
 
 1. Acesse o portal de desenvolvedores do Discord:
 
-   *https://discord.com/developers/applications/
+   https://discord.com/developers/applications/
 2. Crie um **novo aplicativo**.
 3. Copie o **token** do aplicativo (mantenha-o em segredo).
 4. Ative as seguintes intenções (Intents):
